@@ -18,6 +18,8 @@ The visualisation, inverse kinematics and trajectory planning are all solved usi
     #. Che-Jung Chuang: r12021008@ntu.edu.tw
     #. Cheng-Yen Yu: r12922135@ntu.edu.tw
 
+* `YouTube demo video <https://www.youtube.com/watch?v=9ygvFLr1BNQ>`_
+
 * `Interactive GUI of kendo robot system <https://enkimute.github.io/ganja.js/examples/coffeeshop.html#ZAxvNkQ7x>`_
 
 * `LOGO-CAP human pose estimation algorithm <https://github.com/cherubicXN/logocap>`_
