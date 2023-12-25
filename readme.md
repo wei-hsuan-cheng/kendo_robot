@@ -13,10 +13,10 @@ The GUI is hardcrafted based on ganga.js, which is a web programmable platform c
 The visualisation, inverse kinematics and trajectory planning are all solved using conformal geometric algebra (CGA), which is a powerful mathematic framework for representing geometry. CGA can provide numerous geometric insights of the robot that are nearly impossible to be done in traditional matrix methods.
 
 * Contact us
-Wei-Hsuan Cheng (team leader): r11631045@ntu.edu.tw
-Wen Perng: b10901042@ntu.edu.tw
-Che-Jung Chuang: r12021008@ntu.edu.tw
-Cheng-Yen Yu: r12922135@ntu.edu.tw
+  * Wei-Hsuan Cheng (team leader): r11631045@ntu.edu.tw
+  * Wen Perng: b10901042@ntu.edu.tw
+  * Che-Jung Chuang: r12021008@ntu.edu.tw
+  * Cheng-Yen Yu: r12922135@ntu.edu.tw
 
 * `The interactive GUI of kendo robot system <https://enkimute.github.io/ganja.js/examples/coffeeshop.html#ZAxvNkQ7x>`_
 
