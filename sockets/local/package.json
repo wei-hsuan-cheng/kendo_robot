@@ -1,0 +1,26 @@
+{
+  "name": "interactive-ganja",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx rollup -c && npx copyfiles index.html build",
+    "clean": "rm -r build",
+    "serve": "npx serve ./build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.4",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "copyfiles": "^2.4.1",
+    "rollup": "^3.29.3"
+  },
+  "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.1",
+    "codemirror": "^6.0.1",
+    "ganja.js": "^1.0.204",
+    "serve": "^14.2.1"
+  }
+}
