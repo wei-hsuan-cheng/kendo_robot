@@ -26,4 +26,4 @@ The visualisation, inverse kinematics and trajectory planning are all solved usi
 
 * The geometric algebra community- `biVector.net <https://bivector.net/>`_
 
-* ```ganja.js`` <https://github.com/enkimute/ganja.js?files=1>`_ 
+* `ganja.js <https://github.com/enkimute/ganja.js?files=1>`_ 
