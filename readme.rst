@@ -8,7 +8,7 @@ For detection and tracking the human body, we utilise a deep-learning-based huma
 
 An interactive GUI is built using JavaScript for visualisation and real-time implementation. After ONE CLICK on the GUI button of the operator, the attack command will be sent to ROS (through web socket) and control the robot arm.
 
-The GUI is hardcrafted based on ganga.js, which is a web programmable platform created by the geometric algebra community.
+The GUI is hardcrafted based on ``ganga.js``, which is a web programmable platform created by the geometric algebra community.
 
 The visualisation, inverse kinematics and trajectory planning are all solved using conformal geometric algebra (CGA), which is a powerful mathematic framework for representing geometry. CGA can provide numerous geometric insights of the robot that are nearly impossible to be done in traditional matrix methods.
 
@@ -26,4 +26,4 @@ The visualisation, inverse kinematics and trajectory planning are all solved usi
 
 * The geometric algebra community- `biVector.net <https://bivector.net/>`_
 
-* `ganja.js <https://github.com/enkimute/ganja.js?files=1>`_ 
+* ```ganja.js`` <https://github.com/enkimute/ganja.js?files=1>`_ 
