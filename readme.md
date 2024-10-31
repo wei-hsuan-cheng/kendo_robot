@@ -2,6 +2,12 @@
 
 This GitHub repository contains the code files and report for the final project competition in the course [CSIE5074 (Robotics 2023-24)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=922%20U1070&class=&dpt_code=9210&ser_no=62682&semester=112-1&lang=CH) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 
+### 1.2 Our accompanying videos
+Our **accompanying videos** are now available on YouTube (click below images to open)
+<div align="center">
+<a href="[https://youtu.be/j5fT8NE5fdg](https://www.youtube.com/watch?v=9ygvFLr1BNQ)" target="_blank"><img src="https://github.com/ziv-lin/r3live_dataset/blob/main/pics/R3LIVE_paper.jpg" alt="video" width="48%" /></a>
+</div>
+
 We built a supervisory teleoperation kendo robot system. The robot is able to track the opponent’s pose and wait for the operator’s command to attack.
 
 To detect and track the human body, we utilized a deep-learning-based human pose estimation algorithm ([LOGO-CAP, CVPR 2022](https://github.com/cherubicXN/logocap)). By merging the RGB and DEPTH images from the RealSense D435, we obtained the 3D coordinates of the human body.
