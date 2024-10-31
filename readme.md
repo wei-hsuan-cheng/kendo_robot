@@ -12,7 +12,9 @@ To detect and track the human body, we utilized a deep-learning-based human pose
 
 An interactive GUI was created using `JavaScript` for visualization and real-time implementation. With just one click on the GUI button, the operator can send an attack command to ROS (via a WebSocket), which controls the robot arm. The GUI is handcrafted based on `ganja.js`, a web-programmable platform developed by the geometric algebra community.
 
-https://github.com/wei-hsuan-cheng/kendo_robot/blob/main/Pictures/interactive_gui.png
+<div align="center">
+<a href="https://enkimute.github.io/ganja.js/examples/coffeeshop.html#ZAxvNkQ7x" target="_blank"><img src="https://github.com/wei-hsuan-cheng/kendo_robot/blob/main/Pictures/interactive_gui.png" alt="video" width="48%" /></a>
+</div>
 
 Visualization, inverse kinematics, and trajectory planning are all handled using conformal geometric algebra (CGA), a powerful mathematical framework for representing geometry. CGA provides numerous geometric insights into the robot that are nearly impossible to achieve using traditional matrix methods.
 
