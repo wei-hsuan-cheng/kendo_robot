@@ -5,7 +5,7 @@ This GitHub repository contains the code files and report for the final project 
 
 Click below image to watch our demo video!
 <div align="center">
-<a href="https://www.youtube.com/watch?v=9ygvFLr1BNQ" target="_blank"><img src="https://github.com/ziv-lin/r3live_dataset/blob/main/pics/R3LIVE_paper.jpg" alt="video" width="48%" /></a>
+<a href="https://www.youtube.com/watch?v=9ygvFLr1BNQ" target="_blank"><img src="https://github.com/wei-hsuan-cheng/kendo_robot/Pictures/video_cover.jpg" alt="video" width="48%" /></a>
 </div>
 
 We built a supervisory teleoperation kendo robot system. The robot is able to track the opponent’s pose and wait for the operator’s command to attack.
