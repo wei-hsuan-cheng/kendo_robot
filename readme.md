@@ -10,7 +10,7 @@ We built a supervisory teleoperation kendo robot system. The robot is able to tr
 
 To detect and track the human body, we utilized a deep-learning-based human pose estimation algorithm ([LOGO-CAP, CVPR 2022](https://github.com/cherubicXN/logocap)). By aligning the RGB and DEPTH images from the RealSense D435, we obtained the 3D coordinates of the human body.
 
-An interactive GUI was created using `JavaScript` for visualization and real-time implementation. With just one click on the GUI button, the operator can send an attack command to ROS (via a WebSocket), which controls the robot arm. The GUI is handcrafted based on `ganja.js`, a web-programmable platform developed by the geometric algebra community.
+An interactive GUI was created using `JavaScript` for visualization and real-time implementation. With just one click on the GUI button, the operator can send an attack command to ROS (via a WebSocket), which controls the robot arm. The GUI is handcrafted based on `ganja.js`, a web-programmable platform developed by the geometric algebra community. below image to enter the interactive GUI.
 
 <div align="center">
 <a href="https://enkimute.github.io/ganja.js/examples/coffeeshop.html#ZAxvNkQ7x" target="_blank"><img src="https://github.com/wei-hsuan-cheng/kendo_robot/blob/main/Pictures/interactive_gui.png" alt="video" width="48%" /></a>
