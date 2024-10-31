@@ -20,7 +20,7 @@ Visualization, inverse kinematics, and trajectory planning are all handled using
 
 ## Contact Us
 
-- **Wei-Hsuan Cheng** (Team Leader): r11631045@ntu.edu.tw
+- **Wei-Hsuan Cheng** (Team Leader): johnathancheng0125@gmail.com/r11631045@ntu.edu.tw
 - **Wen Perng**: b10901042@ntu.edu.tw
 - **Che-Jung Chuang**: r12021008@ntu.edu.tw
 - **Cheng-Yen Yu**: r12922135@ntu.edu.tw
