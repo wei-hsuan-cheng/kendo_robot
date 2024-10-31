@@ -1,4 +1,5 @@
-# KENDO ROBOT - NTU CSIE5074 Robotics 2023/24 Final Project, Team 5
+# KENDO ROBOT- Combining Robotics Technologies with Martial Art
+NTU CSIE5074 Robotics 2023/24 Final Project, Team 5
 
 This GitHub repository contains the code files and report for the final project competition in the course [CSIE5074 (Robotics 2023-24)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=922%20U1070&class=&dpt_code=9210&ser_no=62682&semester=112-1&lang=CH) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 
