@@ -8,7 +8,7 @@ This GitHub repository contains the code files and report for the final project 
 
 We built a supervisory teleoperation kendo robot system. The robot is able to track the opponent’s pose and wait for the operator’s command to attack.
 
-To detect and track the human body, we utilized a deep-learning-based human pose estimation algorithm ([LOGO-CAP, CVPR 2022](https://github.com/cherubicXN/logocap)). By merging the RGB and DEPTH images from the RealSense D435, we obtained the 3D coordinates of the human body.
+To detect and track the human body, we utilized a deep-learning-based human pose estimation algorithm ([LOGO-CAP, CVPR 2022](https://github.com/cherubicXN/logocap)). By aligning the RGB and DEPTH images from the RealSense D435, we obtained the 3D coordinates of the human body.
 
 An interactive GUI was created using `JavaScript` for visualization and real-time implementation. With just one click on the GUI button, the operator can send an attack command to ROS (via a WebSocket), which controls the robot arm.
 
