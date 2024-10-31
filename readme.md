@@ -3,7 +3,7 @@ NTU CSIE5074 Robotics 2023/24 Final Project, Team 5
 
 This GitHub repository contains the code files and report for the final project competition in the course [CSIE5074 (Robotics 2023-24)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=922%20U1070&class=&dpt_code=9210&ser_no=62682&semester=112-1&lang=CH) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/). Click below image to watch our demo video!
 <div align="center">
-<a href="https://www.youtube.com/watch?v=9ygvFLr1BNQ" target="_blank"><img src="https://github.com/wei-hsuan-cheng/kendo_robot/Pictures/video_cover.jpg" alt="video" width="48%" /></a>
+<a href="https://www.youtube.com/watch?v=9ygvFLr1BNQ" target="_blank"><img src="[https://github.com/wei-hsuan-cheng/kendo_robot/Pictures/video_cover.jpg](https://github.com/wei-hsuan-cheng/kendo_robot/blob/main/Pictures/video_cover.jpg)" alt="video" width="48%" /></a>
 </div>
 
 We built a supervisory teleoperation kendo robot system. The robot is able to track the opponent’s pose and wait for the operator’s command to attack.
