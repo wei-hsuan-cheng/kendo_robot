@@ -16,7 +16,7 @@ An interactive GUI was created using `JavaScript` for visualization and real-tim
 <a href="https://enkimute.github.io/ganja.js/examples/coffeeshop.html#ZAxvNkQ7x" target="_blank"><img src="https://github.com/wei-hsuan-cheng/kendo_robot/blob/main/Pictures/interactive_gui.png" alt="video" width="48%" /></a>
 </div>
 
-Visualization, inverse kinematics, and trajectory planning are all handled using conformal geometric algebra (CGA), a powerful mathematical framework for representing geometry. CGA provides numerous geometric insights into the robot that are nearly impossible to achieve using traditional matrix methods.
+Visualization, inverse kinematics, and trajectory planning are all handled using **conformal geometric algebra (CGA)**, a powerful mathematical framework for representing geometry. CGA provides numerous geometric insights into the robot that are nearly impossible to achieve using traditional matrix methods.
 
 ## Contact Us
 
